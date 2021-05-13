@@ -1,1 +1,1 @@
-line1= 'This is first line : main'
+line1= 'This is first line : yosemite'
